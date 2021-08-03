@@ -1,11 +1,7 @@
-### Hi!
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=03A062&size=17&multiline=true&lines=%22Numbers+don't+lie%22;-+Tej+F9+2021>
-</p>
+### Epic ✨✨✨
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&multiline=true&height=75&lines=%22Numbers+don't+lie%22;-+Tej+F9+2021)](https://git.io/typing-svg)
 
-<p align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C?si=633450975dfb4998)
-</p>
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C?si=633450975dfb4998)
 
 ### Highlights ✨
 
