@@ -1,6 +1,28 @@
-### Epic ✨✨✨
+### Epic すごい! ✨✨✨
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&multiline=true&height=75&lines=%22Numbers+don't+lie%22;-+Tej+F9+2021)](https://git.io/typing-svg)
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C?si=633450975dfb4998)
+
+</br>
+</br>
+</br>
+
+# About だいたい 💻:
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/1936.gif">
+
+### - Learning :
+- ✨  Reverse engineering
+- ✨ C++
+
+### - Hobbies : 
+- ✨ Code a Game Hack
+- ✨ Watching Vtubers
+- ✨ Cooking
+- ✨ Shitposting
+
+</br>
+</br>
+</br>
 
 ### Highlights ✨
 
