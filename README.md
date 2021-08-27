@@ -7,13 +7,15 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/1936.gif">
 
 ### - Learning :
-- ✨  Reverse engineering
+- 🔧 Reverse engineering
 - ✨ C++
+- ✨ Pasting Python (lol)
 
 ### - Hobbies : 
-- ✨ Code a Game Hack
-- ✨ Watching Vtubers
-- ✨ Cooking
+- 🖥️ Code a Game Hack
+- 📺 Watching Vtubers
+- 🎨 Looking at Anime Arts UwU
+- 🍳 Cooking (shef)
 - ✨ Shitposting
 
 </br>
