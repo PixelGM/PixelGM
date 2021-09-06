@@ -1,5 +1,5 @@
 ### Epic すごい! ✨✨✨
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=%22Sometimes+to+Win%2C+You've+Got+to+Sin.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=18&multiline=true&lines=%22Sometimes+to+Win%2C+You've+Got+to+Sin%22+;-+Angel+with+a+Shotgun)](https://git.io/typing-svg)
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C?si=633450975dfb4998)
 
 # About だいたい 💻:
