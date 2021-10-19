@@ -12,10 +12,10 @@
 - ✨ Pasting Python (lol)
 
 ### - Hobbies : 
-- 🖥️ Code a Game Hack
+- 🖥️ Coding shits
+- 🎲 Developping a Game
 - 📺 Watching Vtubers
 - 🎨 Looking at Anime Arts UwU
-- 🍳 Cooking (shef)
 - ✨ Shitposting
 
 </br>
