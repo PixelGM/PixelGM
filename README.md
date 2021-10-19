@@ -18,7 +18,7 @@
 - 🎨 Looking at Anime Arts UwU
 - ✨ Shitposting
 
-(Haven't watched even a single episode of anime, but still loves anime idk why lol)
+(Haven't watched even a single episode of anime, but still loves it idk why lol)
 
 </br>
 </br>
