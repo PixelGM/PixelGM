@@ -9,14 +9,15 @@
 ### - Learning :
 - 🔧 Reverse engineering
 - ✨ C++
-- ✨ Pasting Python (lol)
+- 🕹️ Unity Game Development
 
 ### - Hobbies : 
 - 🖥️ Coding shits
 - 🎲 Developping a Game
 - 📺 Watching Vtubers
 - 🎨 Looking at Anime Arts UwU
-- ✨ Shitposting
+- 📱 Viewing Memes
+- 🤡 Discord Modding (yes im discord mod UwU)
 
 (Haven't watched even a single episode of anime, but still loves it idk why lol)
 
