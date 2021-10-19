@@ -18,11 +18,11 @@
 - 🎨 Looking at Anime Arts UwU
 - ✨ Shitposting
 
-</br>
-</br>
-</br>
-
 (Haven't watched even a single episode of anime, but still loves anime idk why lol)
+
+</br>
+</br>
+</br>
 
 ### Highlights ✨
 
