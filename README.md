@@ -4,7 +4,7 @@
 
 # About だいたい 💻:
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/angery.gif">
 
 ### - Learning :
 - 🔧 Reverse engineering
