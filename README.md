@@ -22,6 +22,8 @@
 </br>
 </br>
 
+(Haven't watched even a single episode of anime, but still loves anime idk why lol)
+
 ### Highlights ✨
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=danielkrupinski&theme=darkhub&column=5&margin-w=15&margin-h=15)
