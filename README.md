@@ -7,17 +7,18 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/angery.gif">
 
 ### - Learning :
-- 🔧 Reverse engineering
+- 🔧 Reverse engineering リバースエンジニアリング
 - ✨ C++
-- 🕹️ Unity Game Development
+- 🕹️ Unity Game Development Unityゲーム開発
 
-### - Hobbies : 
-- 🖥️ Coding shits
-- 🎲 Developping a Game
-- 📺 Watching Vtubers
-- 🎨 Looking at Anime Arts UwU
-- 📱 Viewing Memes
-- 🤡 Discord Modding (yes im discord mod UwU)
+### - Hobbies ホビー : 
+- 🖥️ Coding shits コーディングのたわごと
+- 🎲 Developing a Game ゲームの開発
+- 📺 Watching Vtubers Vtubersを見る
+- 🎨 Looking at Anime Arts UwU アニメアートを見て UwU
+- 📱 Scrolling through memes ミームをスクロールする
+- 🤡 Discord Modding (yes im discord mod UwU) 管理の不和 (はい、私は不和の管理者です UwU)
+- 🎧 Listening nightcore musics ナイトコア音楽を聴く
 
 (Haven't watched even a single episode of anime, but still loves it idk why lol)
 
