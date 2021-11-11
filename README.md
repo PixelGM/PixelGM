@@ -3,7 +3,7 @@
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C?si=633450975dfb4998)
 
 # About だいたい 💻:
-
+</br>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/angery.gif">
 
 ### - Learning :
