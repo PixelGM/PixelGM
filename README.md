@@ -22,7 +22,7 @@
 
 (Haven't watched even a single episode of anime, but still loves it idk why lol)
 
-Make Sure to Check Out <a href="https://pixelgm.github.io/" target="_blank">My Website</a>!
+Make Sure to Check Out [My Website](https://pixelgm.github.io/){:target="_blank"}!
 
 </br>
 </br>
