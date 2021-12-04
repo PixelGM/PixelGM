@@ -22,6 +22,8 @@
 
 (Haven't watched even a single episode of anime, but still loves it idk why lol)
 
+Make Sure to Check Out My Website!
+https://pixelgm.github.io/
 </br>
 </br>
 </br>
