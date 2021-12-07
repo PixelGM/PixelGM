@@ -2,23 +2,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=%22Every+time+is+the+perfect+time.%22)](https://git.io/typing-svg)
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C?si=633450975dfb4998)
 
-# About だいたい 💻:
+# About | だいたい 💻:
 </br>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/angery.gif">
 
 ### - Learning :
-- 🔧 Reverse engineering リバースエンジニアリング
+- 🔧 Reverse engineering | リバースエンジニアリング
 - ✨ C++
-- 🕹️ Unity Game Development Unityゲーム開発
+- 🤖 Game Hacking
+- 🕹️ Unity Game Development | Unityゲーム開発
 
-### - Hobbies ホビー : 
-- 🖥️ Coding shits コーディングのたわごと
-- 🎲 Developing a Game ゲームの開発
-- 📺 Watching Vtubers Vtubersを見る
-- 🎨 Looking at Anime Arts UwU アニメアートを見て UwU
-- 📱 Scrolling through memes ミームをスクロールする
-- 🤡 Discord Modding (yes im discord mod UwU) 管理の不和 (はい、私は不和の管理者です UwU)
-- 🎧 Listening nightcore musics ナイトコア音楽を聴く
+### - Hobbies | ホビー : 
+- 🖥️ Coding Shits | コーディング・シット
+- 🎲 Developing a Game | ゲームの開発
+- 📺 Watching Vtubers | Vtubersを見る
+- 🎨 Looking at Anime Arts UwU | アニメアーツUwUを見て
+- 📱 Scrolling Through Memes | ミームをスクロールする
+- 🤡 Discord Modding (yes im discord mod UwU) | Discord Modding (はい、私はDiscord Mod UwUです)
+- 🎧 Listening Nightcore Musics | ナイトコア・ミュージックを聴く
 
 (Haven't watched even a single episode of anime, but still loves it idk why lol)
 
