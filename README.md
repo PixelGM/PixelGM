@@ -4,7 +4,7 @@
 
 # About | だいたい 💻:
 </br>
-<img width="500" alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/Anomaly_goes_to_Japan_PART_2.gif">
+<img alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/Anomaly_goes_to_Japan_PART_2.gif">
 
 ### - Learning :
 - 🔧 Reverse engineering | リバースエンジニアリング
