@@ -6,7 +6,7 @@
 </br>
 <img width="500" alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/Anomaly_goes_to_Japan_PART_2.gif">
 
-### - Learning :
+### - Currently Learning | 現在学習中のもの :
 - 🔧 Reverse engineering | リバースエンジニアリング
 - ✨ C++
 - 🤖 Game Hacking
