@@ -7,19 +7,20 @@
 <img width="500" alt="GIF" align="right" src="https://github.com/PixelGM/PixelGM/blob/main/assets/Anomaly_goes_to_Japan_PART_2.gif">
 
 ### - Currently Learning | 現在学習中のもの :
-- 🔧 Reverse engineering | リバースエンジニアリング
+- 🔧 Reverse engineering
 - ✨ C++
 - 🤖 Game Hacking
-- 🕹️ Unity Game Development | Unityゲーム開発
+- 🕹️ Unity Game Development
 
 ### - Hobbies | ホビー : 
-- 🖥️ Coding Shits | コーディング・シット
-- 🎲 Developing a Game | ゲームの開発
-- 📺 Watching Vtubers | Vtubersを見る
-- 🎨 Looking at Anime Arts UwU | アニメアーツUwUを見て
-- 📱 Scrolling Through Memes | ミームをスクロールする
-- 🤡 Discord Modding (yes im discord mod UwU) | Discord Modding (はい、私はDiscord Mod UwUです)
-- 🎧 Listening Nightcore Musics | ナイトコア・ミュージックを聴く
+- 🖥️ Coding Shits
+- 🎮 Gaming (obviously)
+- 🎲 Developing a Game
+- 📺 Watching Vtubers
+- 🎨 Looking at Anime Arts UwU
+- 📱 Scrolling Through Memes
+- 🤡 Discord Modding (yes im discord mod UwU)
+- 🎧 Listening Nightcore Musics
 
 (Haven't watched even a single episode of anime, but still loves it idk why lol)
 
