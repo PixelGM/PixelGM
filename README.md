@@ -13,6 +13,7 @@
 - 🕹️ Unity Game Development
 
 ### - Hobbies | ホビー : 
+- 🎭 Going to Cons
 - 🖥️ Coding (Spaghetti Codes)
 - 🎮 Gaming (obviously)
 - 🎲 Developing a Game
@@ -21,6 +22,12 @@
 - 📱 Scrolling Through Memes
 - 🤡 Discord Modding (yes im discord mod UwU)
 - 🎧 Listening Nightcore Musics
+- 🤡 Lazy One Who Wants It All Automated
+
+### - Favourites | お気に入りリスト :
+- Music Genre : Pop, Nightcore, and/or JPOP
+- a
+
 
 (Haven't watched even a single episode of anime, but still loves it idk why lol)
 
