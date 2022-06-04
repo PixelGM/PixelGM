@@ -25,9 +25,9 @@
 - 🤡 Lazy One Who Wants It All Automated
 
 ### - Favourites | お気に入りリスト :
-- Music Genre       : Pop, Nightcore, and/or JPOP
+- Music Genre : Pop, Nightcore, and/or JPOP
 - Singleplayer Game : Yakuza 0
-- Multiplater Game  : Left 4 Dead 2
+- Multiplater Game : Left 4 Dead 2
 
 
 (Haven't watched even a single episode of anime, but still loves it idk why lol)
