@@ -13,7 +13,7 @@
 - 🕹️ Unity Game Development
 
 ### - Hobbies | ホビー : 
-- 🖥️ Coding Shits
+- 🖥️ Coding (Spaghetti Codes)
 - 🎮 Gaming (obviously)
 - 🎲 Developing a Game
 - 📺 Watching Vtubers
