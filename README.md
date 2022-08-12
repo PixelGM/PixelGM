@@ -30,9 +30,9 @@
 - Multiplater Game : Left 4 Dead 2
 
 Game Hacking Tutorials
-- <a href="https://github.com/imadr/Unity-game-hacking/" target="_blank">Unity Game Hacking</a>!
-- <a href="https://github.com/kovidomi/game-reversing/" target="_blank">Game Reverse Engineering</a>!
-- <a href="https://github.com/dsasmblr/game-hacking/" target="_blank">All in One Game Hacking Guide</a>!
+- <a href="https://github.com/imadr/Unity-game-hacking/" target="_blank">Unity Game Hacking</a>
+- <a href="https://github.com/kovidomi/game-reversing/" target="_blank">Game Reverse Engineering</a>
+- <a href="https://github.com/dsasmblr/game-hacking/" target="_blank">All in One Game Hacking Guide</a>
 
 
 (Haven't watched even a single episode of anime, but still loves it idk why lol)
