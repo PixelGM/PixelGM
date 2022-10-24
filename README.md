@@ -25,8 +25,20 @@
 - 🤡 Lazy One Who Wants It All Automated
 
 ### - Favourites | お気に入りリスト :
-- Music Genre : JPOP, Nightcores, Pop.
-  - Favourite Artist: Eve, YOASOBI, Kenshi Yonezu, TUYU.
+#### - Music & Entertainment : 
+- Genre: JPOP, Nightcores, Pop.
+  - Favourite Artist: 
+    - Eve 
+    - YOASOBI
+    - Kenshi Yonezu
+    - TUYU
+- Youtubers: 
+  - CDawgVA
+  - Anomaly
+  - Paolo from Tokyo
+  - Faline San
+
+#### - Games:
 - Singleplayer Game : Yakuza 0
 - Multiplater Game : Left 4 Dead 2
 
