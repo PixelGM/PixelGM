@@ -25,7 +25,8 @@
 - 🤡 Lazy One Who Wants It All Automated
 
 ### - Favourites | お気に入りリスト :
-- Music Genre : Pop, Nightcore, and/or JPOP
+- Music Genre : JPOP, Nightcores, Pop.
+  - Favourite Artist: Eve, YOASOBI, Kenshi Yonezu, TUYU.
 - Singleplayer Game : Yakuza 0
 - Multiplater Game : Left 4 Dead 2
 
