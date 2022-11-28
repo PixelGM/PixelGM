@@ -31,6 +31,7 @@
     - Eve 
     - YOASOBI
     - Kenshi Yonezu
+    - Ado
     - TUYU
 - Youtubers: 
   - CDawgVA
