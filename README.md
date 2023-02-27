@@ -64,7 +64,7 @@ Make Sure to Check Out <a href="https://pixelgm.github.io/" target="_blank">My W
 
 ### Highlights ✨
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=danielkrupinski&theme=darkhub&column=5&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PixelGM)
 
 
 
