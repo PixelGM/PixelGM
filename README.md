@@ -8,10 +8,11 @@
 <img width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/PixelGM/PixelGM/main/assets/literary-nonsense-eve.gif">
 
 ### - Currently Learning | 現在学習中のもの :
-- 🔧 Reverse engineering
 - ✨ C++
-- 🤖 Game Hacking
 - 🕹️ Unity Game Development
+- 🤖 Game Hacking
+- 🔧 Reverse engineering
+
 
 ### - Hobbies | ホビー : 
 - 🎭 Going to Cons
