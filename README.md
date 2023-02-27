@@ -1,5 +1,6 @@
 ### Epic すごい! ✨✨✨
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Everything's+gonna+be+%E3%81%A0%E3%81%84%E3%81%98%E3%82%87%E3%81%86%E3%81%B6+.)](https://git.io/typing-svg)
+
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C?si=633450975dfb4998)
 
 # About | だいたい 💻:
