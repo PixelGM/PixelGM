@@ -35,15 +35,6 @@
     - Kenshi Yonezu
     - Ado
     - TUYU
-- Youtubers: 
-  - CDawgVA
-  - Anomaly
-  - Paolo from Tokyo
-  - Faline San
-
-#### - Games:
-- Singleplayer Game : Yakuza 0
-- Multiplater Game : Left 4 Dead 2
 
 <br>
 
