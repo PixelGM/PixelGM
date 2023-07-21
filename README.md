@@ -6,7 +6,8 @@
 # About 💻:
 </br>
 <img width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/PixelGM/PixelGM/main/assets/literary-nonsense-eve.gif">
-### - Currently Learning | 現在学習中のもの :
+
+### - Currently Learning :
 - ✨ C++
 - 🕹️ Unity Game Development
 - 🤖 Game Hacking
