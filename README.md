@@ -13,29 +13,6 @@
 - 🤖 Game Hacking
 - 🔧 Reverse engineering
 
-
-### - Hobbies | ホビー : 
-- 🎭 Going to Cons
-- 🖥️ Coding (Spaghetti Codes)
-- 🎮 Gaming (obviously)
-- 🎲 Developing a Game
-- 📺 Watching Vtubers
-- 🎨 Looking at Anime Arts UwU
-- 📱 Scrolling Through Memes
-- 🤡 Discord Modding (yes im discord mod UwU)
-- 🎧 Listening Nightcore Musics
-- 🤡 Lazy One Who Wants It All Automated
-
-### - Favourites | お気に入りリスト :
-#### - Music & Entertainment : 
-- Genre: JPOP, Nightcores, Pop.
-  - Favourite Artist: 
-    - Eve 
-    - YOASOBI
-    - Kenshi Yonezu
-    - Ado
-    - TUYU
-
 <br>
 
 Game Hacking Tutorials
