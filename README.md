@@ -7,7 +7,7 @@
 </br>
 <img width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/PixelGM/PixelGM/main/assets/literary-nonsense-eve.gif">
 
-### - Currently Learning :
+## - Currently Learning :
 - ✨ C++
 - 🕹️ Unity Game Development
 - 🤖 Game Hacking
