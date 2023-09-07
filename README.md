@@ -26,6 +26,7 @@ Game Hacking Tutorials
 
 Make Sure to Check Out <a href="https://pixelgm.github.io/" target="_blank">My Website</a>!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N3OZQTI)
 </br>
 </br>
 </br>
