@@ -9,8 +9,8 @@
 
 ### Currently Learning :
 - ✨ C++
+- 💙 Flutter
 - 🕹️ Unity Game Development
-- 🤖 Game Hacking
 - 🔧 Reverse engineering
 
 <br>
