@@ -33,6 +33,8 @@ Make Sure to Check Out <a href="https://pixelgm.github.io/" target="_blank">My W
 </br>
 
 ### Highlights ✨
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pixelgm)](https://git.io/streak-stats)
+
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PixelGM&theme=darkhub&column=5&margin-w=15&margin-h=15)
 
