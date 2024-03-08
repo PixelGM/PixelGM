@@ -9,7 +9,7 @@
 
 ### Currently Learning :
 - ✨ C++
-- 💙 Flutter
+- 💙 React / Node.js
 - 🕹️ Unity Game Development
 - 🔧 Reverse engineering
 
